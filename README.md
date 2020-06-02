@@ -5,9 +5,9 @@ Author: @mojtaba-eshghie
 *This is a way to define anonymous functions in python.
 May have any number of inputs, but just one expression as the body.* 
 
-    def cube(x):\
-        return x*x*x \
-    g = lambda x: x*x*x \
+    def cube(x):
+        return x*x*x 
+    g = lambda x: x*x*x 
     print(g(7))
     print(cube(7)) 
 
