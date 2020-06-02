@@ -12,6 +12,7 @@ May have any number of inputs, but just one expression as the body.*
     print(cube(7)) 
 
 
+
 ### Use of lambda with filter function
 *The filter function receives the a function object and a list as the arguments, then, it will filter out all of the elements of the list based on which the function returns true for.*
 
